@@ -6,6 +6,7 @@ This repository contains two main components:
 Analyzing User Sentiments and Performance of Threads.ipynb: A Jupyter notebook for analyzing user sentiments and performance of Threads using various data analysis and visualization techniques.
 
 sentiment_app.py: A Streamlit application for performing sentiment analysis on user reviews using a pre-trained Support Vector Machine (SVM) model.
+![Uploading image.png…]()
 
 Files and Directories
 Analyzing User Sentiments and Performance of Threads.ipynb: Jupyter notebook for data analysis and visualization.
