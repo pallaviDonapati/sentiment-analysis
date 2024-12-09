@@ -33,21 +33,34 @@ Visualization of review sources and ratings over time
 Building and saving a TF-IDF vectorizer and SVM model
 Model evaluation and metrics
 
-#### App Features
+#### App Features:
+
 Text input for user review
+
 Text preprocessing (cleaning, tokenization, stopword removal, lemmatization)
+
 Sentiment prediction using the pre-trained SVM model
+
 Display of sentiment prediction (Positive, Neutral, Negative)
 
-#### Dependencies
-List of main dependencies:
+#### Dependencies:
+
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 plotly
+
 scikit-learn
+
 nltk
+
 spacy
+
 streamlit
+
 wordcloud
